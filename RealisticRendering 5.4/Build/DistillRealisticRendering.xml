@@ -1,0 +1,152 @@
+<DistillSettings>
+	
+	<!-- A list of known platforms -->
+	<KnownPlatforms>
+		<PlatformInfo Name="Windows" />
+		<PlatformInfo Name="Win32" />
+		<PlatformInfo Name="Win32Server" />
+		<PlatformInfo Name="Win64" />
+		<PlatformInfo Name="PS4" bCaseSensitiveFileSystem="true"/>
+		<PlatformInfo Name="XboxOne" />
+		<PlatformInfo Name="WinRT" />
+		<PlatformInfo Name="Mac" />
+		<PlatformInfo Name="IOS" />
+		<PlatformInfo Name="Android" />	
+	</KnownPlatforms>
+	
+	<!-- The sets of tags used to copy builds -->
+	<TagSets>
+		<TagSet Name="Test">
+			<Tags>
+				<string>EngineConfig</string>	
+			</Tags>
+		</TagSet>
+		
+		<TagSet Name="Game">
+			<Tags>
+				<string>Executables</string>
+				<string>ThirdParty</string>
+				<string>Redist</string>
+				<string>EngineConfig</string>
+				<string>GameConfig</string>
+				<string>EngineContent</string>
+				<string>GameContent</string>
+				<string>EngineTools</string>				
+			</Tags>
+		</TagSet>
+	</TagSets>
+	
+	<FileGroups>
+<!-->
+ GAME DEFINITIONS
+</-->	
+		<FileGroup Tag="Executables" Platform="Win64">
+			<Files>
+				<FileSet Path="Engine\Build\Build.properties"/>				
+				<FileSet Path="Engine\Binaries\Win64\UE4Game.exe">
+					<FilterOutFiles>
+						<string>*Debug*.exe</string>
+						<string>*Shipping*.exe</string>
+						<string>*.pdb</string>
+					</FilterOutFiles>
+				</FileSet>
+			</Files>
+		</FileGroup>
+
+		<FileGroup Tag="GameContent" Platform="Win64">
+			<Files>
+				<FileSet Path="Samples\Showcases\RealisticRendering\Saved\Sandboxes\Cooked-WindowsNoEditor\*" bIsRecursive="true"/>
+				<FileSet Path="Samples\Showcases\RealisticRendering\*.uproject" bIsRecursive="false"/>
+				<FileSet Path="Samples\Showcases\RealisticRendering\*_CookedGame.bat" bIsRecursive="false"/>
+			</Files>
+		</FileGroup>
+		
+<!-->
+ ENGINE DEFINITIONS
+</-->	
+		<FileGroup Tag="EngineContent">
+			<Files>
+				<FileSet Path="Engine\Content\Editor\Slate\*" bIsRecursive="true">
+					<FilterOutFiles>
+						<string>*.psd</string>
+					</FilterOutFiles>
+					<FilterOutFolders>
+						<string>%NOTPLATFORM%</string>
+						<string>NoRedist</string>
+					</FilterOutFolders>
+				</FileSet>
+			</Files>
+		</FileGroup>
+		
+		<FileGroup Tag="EngineConfig">
+			<Files>
+				<FileSet Path="Engine\Config\*" bIsRecursive="true">
+					<FilterOutFolders>
+						<string>%NOTPLATFORM%</string>
+					</FilterOutFolders>
+				</FileSet>
+			</Files>
+		</FileGroup>
+
+		<FileGroup Tag="GameConfig">
+			<Files>
+				<FileSet Path="Samples\Showcases\RealisticRendering\Config\*" bIsRecursive="true">
+					<FilterOutFolders>
+						<string>%NOTPLATFORM%</string>
+					</FilterOutFolders>
+				</FileSet>
+			</Files>
+		</FileGroup>
+
+		<FileGroup Tag="EngineShaders">
+			<Files>
+				<FileSet Path="Engine\Shaders\*" bIsRecursive="true">
+					<FilterOutFolders>
+						<string>%NOTPLATFORM%</string>
+					</FilterOutFolders>
+				</FileSet>
+			</Files>
+		</FileGroup>
+		
+		<FileGroup Tag="ThirdParty" Platform="Win64">
+			<Files>
+				<FileSet Path="Engine\Binaries\ThirdParty\nvTextureTools\Win64\*.dll" />
+				<FileSet Path="Engine\Binaries\ThirdParty\Ogg\Win64\*.dll" />
+				<FileSet Path="Engine\Binaries\ThirdParty\Vorbis\Win64\*.dll" />
+				<FileSet Path="Engine\Binaries\ThirdParty\PhysX\APEX-1.2\Win64\VS2010\*.dll" >
+					<FilterOutFiles>
+						<string>*DEBUG_x86.dll</string>
+						<string>*CHECKED_x86.dll</string>						
+					</FilterOutFiles>	
+				</FileSet>					
+				<FileSet Path="Engine\Binaries\ThirdParty\PhysX\PhysX-3.2\Win64\VS2010\*.dll" >
+					<FilterOutFiles>
+						<string>*DEBUG_x86.dll</string>
+						<string>*CHECKED_x86.dll</string>							
+					</FilterOutFiles>	
+				</FileSet>					
+			</Files>
+		</FileGroup>
+
+		<FileGroup Tag="Redist" Platform="Win64">
+			<Files>
+				<FileSet Path="Engine\Extras\Redist\*.exe" bIsRecursive="true"/>
+			</Files>
+		</FileGroup>
+		
+		<FileGroup Tag="EngineTools" Platform="Win64 Windows">
+			<Files>
+				<FileSet Path="Engine\Binaries\DotNET\AutoReporter.exe"/>	
+				<FileSet Path="Engine\Binaries\DotNET\AutoReporter.exe.config"/>	
+				<FileSet Path="Engine\Binaries\DotNET\AutoReporter.XmlSerializers.dll"/>	
+				<FileSet Path="Engine\Binaries\DotNET\CrashReportCommon.dll"/>						
+				<FileSet Path="Engine\Binaries\DotNET\CrashReportInput.exe"/>				
+				<FileSet Path="Engine\Binaries\DotNET\CrashReportInput.exe.config"/>					
+				<FileSet Path="Engine\Binaries\DotNET\CrashReportUploader.exe"/>				
+				<FileSet Path="Engine\Binaries\DotNET\CrashReportUploader.exe.config"/>	
+				<FileSet Path="Engine\Binaries\DotNET\DotNETUtilities.dll"/>
+				<FileSet Path="Engine\Binaries\DotNET\Ionic.Zip.Reduced.dll"/>								
+			</Files>
+		</FileGroup>
+	</FileGroups>
+</DistillSettings>
