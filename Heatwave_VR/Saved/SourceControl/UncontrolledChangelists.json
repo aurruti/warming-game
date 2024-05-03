@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/admin/Documents/GitHub/warming-game/Heatwave_VR/Content/Maps/Room.umap",
+				"C:/Users/admin/Documents/GitHub/warming-game/Heatwave_VR/Content/Maps/Room_BuiltData.uasset",
 				"C:/Users/admin/Documents/Unreal Projects/RealisticRendering 5.4/Content/Environment/Maps/RoomNightNoLights_BuiltData.uasset",
 				"C:/Users/admin/Documents/Unreal Projects/RealisticRendering 5.4/Content/Environment/Maps/RoomNightNoLights.umap"
 			]
