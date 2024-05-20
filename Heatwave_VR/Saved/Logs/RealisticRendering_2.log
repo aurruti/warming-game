@@ -2547,3 +2547,357 @@ _MatTransl_3B7A55D3409170328211A060FC2E3BB1E263C720_BBD650804D314CE7A44ADF9BB4F3
 [2024.05.20-17.54.20:986][798]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2024.05.20-17.54.20:986][798]LogContentValidation: Display: Validating asset /Game/Maps/Room.Room
 [2024.05.20-17.54.20:986][798]AssetCheck: /Game/Maps/Room Validating asset
+[2024.05.20-18.01.49:846][315]LogSlate: Took 0.014544 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.05.20-18.04.29:096][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2024.05.20-18.04.29:277][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Maps/Room_Auto4
+[2024.05.20-18.04.29:278][915]LogSavePackage: Moving '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/Room_Auto4B17C9E29465C66F8C45FBCB3E10BDE5A.tmp' to '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/Autosaves/Game/Maps/Room_Auto4.umap'
+[2024.05.20-18.04.29:281][915]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/Autosaves/Game/Maps/Room_Auto4.umap is in the /Temp path, will not scan.
+[2024.05.20-18.04.29:282][915]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Room' took 0.349
+[2024.05.20-18.04.29:282][915]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.349
+[2024.05.20-18.04.29:283][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActionDisplays/ActionImages/manatee] ([1] browsable assets)...
+[2024.05.20-18.04.29:283][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActionDisplays/ActionImages/manatee]
+[2024.05.20-18.04.29:289][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ActionDisplays/ActionImages/manatee_Auto4
+[2024.05.20-18.04.29:291][915]LogSavePackage: Moving '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/manatee_Auto40E0C30914C56EF3179C9438E8C9B8473.tmp' to '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/Autosaves/Game/ActionDisplays/ActionImages/manatee_Auto4.uasset'
+[2024.05.20-18.04.29:297][915]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActionDisplays/SpawnActionTemplate] ([2] browsable assets)...
+[2024.05.20-18.04.29:297][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActionDisplays/SpawnActionTemplate]
+[2024.05.20-18.04.29:307][915]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ActionDisplays/SpawnActionTemplate_Auto4
+[2024.05.20-18.04.29:307][915]LogSavePackage: Moving '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/SpawnActionTemplate_Auto4B3C5740441967FD880AC9482A8D1E027.tmp' to '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/Autosaves/Game/ActionDisplays/SpawnActionTemplate_Auto4.uasset'
+[2024.05.20-18.04.29:312][915]LogFileHelpers: Auto-saving content packages took 0.030
+[2024.05.20-18.07.36:776][476]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-18.07.36:776][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.20-18.07.36:935][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.05.20-18.08.32:009][ 68]LogSlate: Window 'Room' being destroyed
+[2024.05.20-18.08.32:018][ 68]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-18.08.32:018][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.20-18.08.32:089][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.05.20-18.09.30:666][365]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Room.Room:PersistentLevel.Room
+[2024.05.20-18.09.30:667][365]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_34'.
+[2024.05.20-18.11.34:962][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.20-18.11.35:091][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.05.20-18.11.35:189][ 28]LogSavePackage: Moving output files for package: /Game/Maps/Room
+[2024.05.20-18.11.35:191][ 28]LogSavePackage: Moving '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/Room2269D331481BE9F37399C8A92A32A35B.tmp' to '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Content/Maps/Room.umap'
+[2024.05.20-18.11.35:205][ 28]LogFileHelpers: All files are already saved.
+[2024.05.20-18.11.35:205][ 28]LogFileHelpers: Saving map 'Room' took 0.180
+[2024.05.20-18.11.35:214][ 28]LogFileHelpers: InternalPromptForCheckoutAndSave took 251.283 ms (total: 4.01 sec)
+[2024.05.20-18.11.35:276][ 28]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.20-18.11.35:276][ 28]LogContentValidation: Enabled validators:
+[2024.05.20-18.11.35:276][ 28]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.20-18.11.35:276][ 28]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.20-18.11.35:276][ 28]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.20-18.11.35:276][ 28]LogContentValidation: Display: Validating asset /Game/Maps/Room.Room
+[2024.05.20-18.11.35:277][ 28]AssetCheck: /Game/Maps/Room Validating asset
+[2024.05.20-18.11.35:788][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2024.05.20-18.11.38:338][233]LogSlate: Window 'Room' being destroyed
+[2024.05.20-18.11.38:347][233]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-18.11.38:347][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.20-18.11.38:420][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.20-18.11.49:171][879]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.20-18.11.49:179][879]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.05.20-18.11.49:188][879]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.05.20-18.11.49:206][880]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.05.20-18.11.54:487][333]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_ActionTemplate
+[2024.05.20-18.11.54:634][333]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.05.20-18.11.55:515][404]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate
+[2024.05.20-18.11.55:516][404]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_35'.
+[2024.05.20-18.17.21:025][408]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2024.05.20-18.18.26:955][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate_C
+[2024.05.20-18.18.26:955][751]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate_C
+[2024.05.20-18.18.26:957][751]LogActorFactory: Actor Factory spawned Blueprint /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate as actor: BP_ActionTemplate_C /Game/Maps/Room.Room:PersistentLevel.BP_ActionTemplate_C_0
+[2024.05.20-18.18.26:957][751]LogActorFactory: Actor Factory spawned Blueprint /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate as actor: BP_ActionTemplate_C /Game/Maps/Room.Room:PersistentLevel.BP_ActionTemplate_C_0
+[2024.05.20-18.18.29:696][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2024.05.20-18.18.29:712][981]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2024.05.20-18.18.29:718][981]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate_C
+[2024.05.20-18.18.29:718][981]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate_C
+[2024.05.20-18.18.29:721][981]LogActorFactory: Actor Factory spawned Blueprint /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate as actor: BP_ActionTemplate_C /Game/Maps/Room.Room:PersistentLevel.BP_ActionTemplate_C_1
+[2024.05.20-18.18.29:721][981]LogActorFactory: Actor Factory spawned Blueprint /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate as actor: BP_ActionTemplate_C /Game/Maps/Room.Room:PersistentLevel.BP_ActionTemplate_C_1
+[2024.05.20-18.19.29:438][872]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.20-18.19.29:585][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.20-18.19.29:638][872]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActionDisplays/SpawnActionTemplate1] ([2] browsable assets)...
+[2024.05.20-18.19.29:638][872]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActionDisplays/SpawnActionTemplate1]
+[2024.05.20-18.19.29:643][872]LogSavePackage: Moving output files for package: /Game/ActionDisplays/SpawnActionTemplate1
+[2024.05.20-18.19.29:643][872]LogSavePackage: Moving '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/SpawnActionTemplate1E2D86D3E4DA6CBEBECE05B99287A33AE.tmp' to '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Content/ActionDisplays/SpawnActionTemplate1.uasset'
+[2024.05.20-18.19.29:885][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 299.229 ms (total: 4.31 sec)
+[2024.05.20-18.19.30:010][872]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.05.20-18.19.30:010][872]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.20-18.19.30:010][872]LogContentValidation: Enabled validators:
+[2024.05.20-18.19.30:010][872]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.20-18.19.30:010][872]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.20-18.19.30:010][872]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.20-18.19.30:010][872]LogContentValidation: Display: Validating asset /Game/ActionDisplays/SpawnActionTemplate1.SpawnActionTemplate1
+[2024.05.20-18.19.30:010][872]AssetCheck: /Game/ActionDisplays/SpawnActionTemplate1 Validating asset
+[2024.05.20-18.19.32:231][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.20-18.19.34:236][ 90]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.20-18.19.34:383][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2024.05.20-18.19.34:405][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.05.20-18.19.34:427][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.20-18.19.34:603][ 90]SourceControl: rm 'Heatwave_VR/Content/ActionDisplays/SpawnActionTemplate1.uasset'
+[2024.05.20-18.20.25:037][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.20-18.20.25:089][313]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActionDisplays/BP_ActionTemplate] ([2] browsable assets)...
+[2024.05.20-18.20.25:089][313]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActionDisplays/BP_ActionTemplate]
+[2024.05.20-18.20.25:093][313]LogSavePackage: Moving output files for package: /Game/ActionDisplays/BP_ActionTemplate
+[2024.05.20-18.20.25:094][313]LogSavePackage: Moving '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/BP_ActionTemplateE6C63B1249EBC78202F39BA920A68648.tmp' to '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Content/ActionDisplays/BP_ActionTemplate.uasset'
+[2024.05.20-18.20.25:373][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 335.912 ms (total: 4.64 sec)
+[2024.05.20-18.20.25:418][313]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.20-18.20.25:418][313]LogContentValidation: Enabled validators:
+[2024.05.20-18.20.25:418][313]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.20-18.20.25:418][313]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.20-18.20.25:418][313]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.20-18.20.25:419][313]LogContentValidation: Display: Validating asset /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate
+[2024.05.20-18.20.25:419][313]AssetCheck: /Game/ActionDisplays/BP_ActionTemplate Validating asset
+[2024.05.20-18.21.15:341][404]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate'
+[2024.05.20-18.21.16:920][488]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate'
+[2024.05.20-18.21.22:192][860]LogSlate: Window 'BP_ActionTemplate' being destroyed
+[2024.05.20-18.21.22:200][860]LogSlate: Window 'BP_ActionTemplate' being destroyed
+[2024.05.20-18.21.22:206][860]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-18.21.22:206][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.20-18.21.22:289][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2024.05.20-18.21.25:529][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.05.20-18.21.29:203][125]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.20-18.21.29:280][125]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/ActionDisplays/BP_ActionTemplate.BP_ActionTemplate
+	Asset Type: Blueprint
+[2024.05.20-18.21.29:645][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.05.20-18.21.29:833][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.05.20-18.21.29:856][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.05.20-18.21.29:878][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.20-18.21.30:070][125]SourceControl: rm 'Heatwave_VR/Content/ActionDisplays/BP_ActionTemplate.uasset'
+[2024.05.20-18.21.43:769][278]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ActionDisplays/SpawnActionTemplate.SpawnActionTemplate
+[2024.05.20-18.21.43:770][278]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_36'.
+[2024.05.20-18.22.50:536][817]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/TMHighTechPack1/HighTech/blueprints/BP_Earphone01.BP_Earphone01
+[2024.05.20-18.22.50:537][817]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_37'.
+[2024.05.20-18.22.56:172][154]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-18.22.56:172][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.20-18.22.56:248][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.20-18.23.28:419][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.20-18.23.28:515][569]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2024.05.20-18.23.28:613][569]LogSavePackage: Moving output files for package: /Game/Maps/Room
+[2024.05.20-18.23.28:614][569]LogSavePackage: Moving '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/RoomCFD080454B3001D2F7CA17906284A7DD.tmp' to '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Content/Maps/Room.umap'
+[2024.05.20-18.23.28:664][569]LogFileHelpers: All files are already saved.
+[2024.05.20-18.23.28:666][569]LogFileHelpers: Saving map 'Room' took 0.216
+[2024.05.20-18.23.28:675][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 255.950 ms (total: 4.90 sec)
+[2024.05.20-18.23.28:733][569]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.20-18.23.28:733][569]LogContentValidation: Enabled validators:
+[2024.05.20-18.23.28:733][569]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.20-18.23.28:733][569]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.20-18.23.28:733][569]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.20-18.23.28:733][569]LogContentValidation: Display: Validating asset /Game/Maps/Room.Room
+[2024.05.20-18.23.28:733][569]AssetCheck: /Game/Maps/Room Validating asset
+[2024.05.20-18.23.30:019][643]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.05.20-18.23.32:558][768]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.20-18.23.32:618][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActionDisplays/SpawnActionTemplate] ([2] browsable assets)...
+[2024.05.20-18.23.32:618][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActionDisplays/SpawnActionTemplate]
+[2024.05.20-18.23.32:623][768]LogSavePackage: Moving output files for package: /Game/ActionDisplays/SpawnActionTemplate
+[2024.05.20-18.23.32:624][768]LogSavePackage: Moving '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/SpawnActionTemplateCE960CA44EAAEBAA2582F9A90780AFF5.tmp' to '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Content/ActionDisplays/SpawnActionTemplate.uasset'
+[2024.05.20-18.23.32:634][768]LogFileHelpers: InternalPromptForCheckoutAndSave took 75.926 ms (total: 4.97 sec)
+[2024.05.20-18.23.32:734][768]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.20-18.23.32:734][768]LogContentValidation: Enabled validators:
+[2024.05.20-18.23.32:734][768]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.20-18.23.32:734][768]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.20-18.23.32:734][768]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.20-18.23.32:734][768]LogContentValidation: Display: Validating asset /Game/ActionDisplays/SpawnActionTemplate.SpawnActionTemplate
+[2024.05.20-18.23.32:734][768]AssetCheck: /Game/ActionDisplays/SpawnActionTemplate Validating asset
+[2024.05.20-18.23.35:173][908]LogSlate: Window 'SpawnActionTemplate' being destroyed
+[2024.05.20-18.23.35:179][908]LogSlate: Window 'SpawnActionTemplate' being destroyed
+[2024.05.20-18.23.35:183][908]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.20-18.23.35:183][908]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-18.23.35:183][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.20-18.23.35:259][908]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.20-18.23.57:930][547]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.20-18.24.59:879][940]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Room.Room:PersistentLevel.Room
+[2024.05.20-18.24.59:880][940]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_38'.
+[2024.05.20-18.25.26:083][565]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Maps/Room.Room:PersistentLevel.Room'
+[2024.05.20-18.30.22:465][149]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Maps/Room.Room:PersistentLevel.Room'
+[2024.05.20-18.30.24:919][288]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.05.20-18.30.24:920][288]LogRenderer: SceneCulling instance hierarchy is disabled as UseNanite(PCD3D_SM5) returned false, for scene: 'World /Engine/Transient.World_39'.
+[2024.05.20-18.30.29:263][504]LogSlate: Window 'Room' being destroyed
+[2024.05.20-18.30.44:452][351]LogShaderCompilers: Display: ================================================
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Total job queries 6,559, among them cache hits 436 (6.65%), DDC hits 1,519 (23.16%), Duplicates 898 (13.69%)
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Tracking 5,225 distinct input hashes that result in 4,590 distinct outputs (87.85%)
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: RAM used: 18.57 MiB of 1.20 GiB budget. Usage: 1.51%
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Shaders Compiled: 3,706
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Jobs assigned 3,706, completed 3,706 (100%)
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Average time worker was idle: 23.02 s
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Time job spent in pending queue: average 1794.31 s, longest 3395.36 s
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Job execution time: average 28.23 s, max 215.79 s
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Job life time (pending + execution): average 1822.55 s, max 3399.79
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Shader code size: average 15.173 KiB, min 140 B, max 154.254 KiB
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4350.48 s
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Jobs were issued in 628 batches (only local compilation was used), average 5.90 jobs/batch
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Average processing rate: 0.85 jobs/sec
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Total thread time: 11,779.431 s
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Total thread preprocess time: 59.994 s
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Percentage time preprocessing: 0.51%
+[2024.05.20-18.30.44:453][351]LogShaderCompilers: Display: Effective parallelization: 2.71 (times faster than compiling all shaders on one thread). Compare with number of workers: 3
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display:                                          FTSRRejectShadingCS (compiled    6 times, average 53.87 sec, max 112.76 sec, min 13.89 sec)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 41.38 sec, max 41.38 sec, min 41.38 sec)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    6 times, average 31.91 sec, max 142.84 sec, min 4.70 sec)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled   12 times, average 24.00 sec, max 215.67 sec, min 1.46 sec)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display:                                        FRadixSortDownsweepCS (compiled    1 times, average 20.36 sec, max 20.36 sec, min 20.36 sec)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 13.41% of total time (compiled  238 times, average 6.63 sec, max 16.10 sec, min 2.25 sec)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 9.76% of total time (compiled  115 times, average 10.00 sec, max 19.66 sec, min 1.96 sec)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display:                                             FDeferredLightPS - 7.82% of total time (compiled  149 times, average 6.18 sec, max 14.37 sec, min 0.77 sec)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 6.49% of total time (compiled  129 times, average 5.93 sec, max 10.55 sec, min 0.69 sec)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 5.52% of total time (compiled  153 times, average 4.25 sec, max 9.45 sec, min 1.18 sec)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display: === Material stats ===
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display: Materials Cooked:        0
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display: Materials Translated:    165
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display: Material Total Translate Time: 0.38 s
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display: Material Translation Only: 0.07 s (19%)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2024.05.20-18.30.44:454][351]LogShaderCompilers: Display: ================================================
+[2024.05.20-18.33.42:301][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.20-18.33.42:435][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.05.20-18.33.42:536][ 36]LogSavePackage: Moving output files for package: /Game/Maps/Room
+[2024.05.20-18.33.42:537][ 36]LogSavePackage: Moving '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/RoomE720241B4EDED43E48E1AFB2ECA6C314.tmp' to '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Content/Maps/Room.umap'
+[2024.05.20-18.33.42:547][ 36]LogFileHelpers: All files are already saved.
+[2024.05.20-18.33.42:547][ 36]LogFileHelpers: Saving map 'Room' took 0.183
+[2024.05.20-18.33.42:561][ 36]LogFileHelpers: InternalPromptForCheckoutAndSave took 259.206 ms (total: 5.23 sec)
+[2024.05.20-18.33.42:613][ 36]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.20-18.33.42:613][ 36]LogContentValidation: Enabled validators:
+[2024.05.20-18.33.42:613][ 36]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.20-18.33.42:613][ 36]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.20-18.33.42:613][ 36]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.20-18.33.42:613][ 36]LogContentValidation: Display: Validating asset /Game/Maps/Room.Room
+[2024.05.20-18.33.42:613][ 36]AssetCheck: /Game/Maps/Room Validating asset
+[2024.05.20-18.33.44:551][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2024.05.20-18.43.46:064][563]LogDerivedDataCache: C:/Users/aitor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.05.20-18.56.38:825][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.05.20-18.56.41:257][311]LogSlate: Window 'Save Content' being destroyed
+[2024.05.20-19.43.46:065][ 21]LogDerivedDataCache: C:/Users/aitor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.05.20-19.54.36:118][741]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Oculus Virtual Audio Device), InstanceID=1
+[2024.05.20-19.54.36:373][741]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14492
+[2024.05.20-19.54.39:045][749]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7e1d6f87-7b57-4fcb-b500-2299868a3b9b}, Name=Headphones (Oculus Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=2523.16
+[2024.05.20-19.54.39:116][749]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.20-19.54.39:122][749]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.20-20.33.30:611][141]LogSlate: Window 'Device Manager' being destroyed
+[2024.05.20-20.33.30:619][141]LogSlate: Window 'Device Manager' being destroyed
+[2024.05.20-20.33.40:482][725]LogSlate: Window 'Unsupported Platform' being destroyed
+[2024.05.20-20.33.40:594][725]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.4/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/RealisticRendering.uproject" Turnkey -command=VerifySdk -UpdateIfNeeded -platform=Win64 -noturnkeyvariables -device=A-TOWER -utf8output -WaitForUATMutex  -EditorIO -EditorIOPort=61446  -project="C:/Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/RealisticRendering.uproject"" -nocompile -nocompileuat ]
+[2024.05.20-20.33.40:915][725]UATHelper: Verifying SDK and Device (Windows): Running AutomationTool...
+[2024.05.20-20.33.41:043][725]UATHelper: Verifying SDK and Device (Windows): Using bundled DotNet SDK version: 6.0.302
+[2024.05.20-20.33.43:437][864]UATHelper: Verifying SDK and Device (Windows): Starting AutomationTool...
+[2024.05.20-20.33.43:618][877]UATHelper: Verifying SDK and Device (Windows): Parsing command line: -ScriptsForProject="C:/Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/RealisticRendering.uproject" Turnkey -command=VerifySdk -UpdateIfNeeded -platform=Win64 -noturnkeyvariables -device=A-TOWER -utf8output -WaitForUATMutex -EditorIO -EditorIOPort=61446 -project="C:/Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/RealisticRendering.uproject" -nocompile -nocompileuat
+[2024.05.20-20.33.44:894][964]UATHelper: Verifying SDK and Device (Windows): Initializing script modules...
+[2024.05.20-20.33.51:912][462]UATHelper: Verifying SDK and Device (Windows): Total script module initialization time: 7.02 s.
+[2024.05.20-20.34.35:170][535]LogSlate: Window 'Room' being destroyed
+[2024.05.20-20.35.25:144][932]LogSlate: Window 'SDK Verification' being destroyed
+[2024.05.20-20.36.49:629][186]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (SRS-XE200 Stereo), InstanceID=1
+[2024.05.20-20.36.49:875][186]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14492
+[2024.05.20-20.36.50:208][187]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{0bb0ae1d-9ad7-4468-8c96-11ca89a0883b}, Name=Speakers (SRS-XE200 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=27.00
+[2024.05.20-20.36.50:209][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.20-20.36.50:211][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.20-20.43.46:066][870]LogDerivedDataCache: C:/Users/aitor/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.001 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2024.05.20-21.06.49:293][ 19]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Headphones (Oculus Virtual Audio Device), InstanceID=1
+[2024.05.20-21.06.49:568][ 19]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14492
+[2024.05.20-21.06.49:903][ 20]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{7e1d6f87-7b57-4fcb-b500-2299868a3b9b}, Name=Headphones (Oculus Virtual Audio Device)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=16.46
+[2024.05.20-21.06.49:904][ 20]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.20-21.06.49:906][ 20]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.20-21.08.52:099][688]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (SRS-XE200 Stereo), InstanceID=1
+[2024.05.20-21.08.52:346][688]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14492
+[2024.05.20-21.08.52:679][689]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=44100, DeviceID={0.0.0.00000000}.{0bb0ae1d-9ad7-4468-8c96-11ca89a0883b}, Name=Speakers (SRS-XE200 Stereo)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=38.01
+[2024.05.20-21.08.52:679][689]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.05.20-21.08.52:686][689]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.05.20-21.10.32:494][647]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2024.05.20-21.10.37:003][647]LogSlate: Window 'Save Content' being destroyed
+[2024.05.20-21.10.37:238][647]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.20-21.10.37:298][647]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ActionDisplays/ActionImages/manatee] ([1] browsable assets)...
+[2024.05.20-21.10.37:298][647]OBJ SavePackage: Finished generating thumbnails for package [/Game/ActionDisplays/ActionImages/manatee]
+[2024.05.20-21.10.37:345][647]LogSavePackage: Moving output files for package: /Game/ActionDisplays/ActionImages/manatee
+[2024.05.20-21.10.37:345][647]LogSavePackage: Moving '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Saved/manatee0089C41D43C7C5AFE030468DAF381E26.tmp' to '../../../../../../Users/aitor/Documents/AALTO/Special Project/warming-game/Heatwave_VR/Content/ActionDisplays/ActionImages/manatee.uasset'
+[2024.05.20-21.10.37:818][647]LogFileHelpers: InternalPromptForCheckoutAndSave took 579.740 ms (total: 5.81 sec)
+[2024.05.20-21.10.37:907][647]LogStall: Shutdown...
+[2024.05.20-21.10.37:916][647]LogStall: Shutdown complete.
+[2024.05.20-21.10.38:252][647]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.38:253][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.20-21.10.38:471][647]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.38:471][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.20-21.10.38:649][647]LogSlate: Window 'RealisticRendering - Unreal Editor' being destroyed
+[2024.05.20-21.10.39:092][647]LogContentValidation: Display: Starting to validate 1 assets
+[2024.05.20-21.10.39:092][647]LogContentValidation: Enabled validators:
+[2024.05.20-21.10.39:092][647]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2024.05.20-21.10.39:092][647]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2024.05.20-21.10.39:092][647]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2024.05.20-21.10.39:092][647]LogContentValidation: Display: Validating asset /Game/ActionDisplays/ActionImages/manatee.manatee
+[2024.05.20-21.10.39:092][647]AssetCheck: /Game/ActionDisplays/ActionImages/manatee Validating asset
+[2024.05.20-21.10.39:144][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.05.20-21.10.39:160][647]Cmd: QUIT_EDITOR
+[2024.05.20-21.10.39:160][648]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.05.20-21.10.39:307][648]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.05.20-21.10.39:327][648]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.05.20-21.10.39:327][648]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.05.20-21.10.39:395][648]LogWorld: UWorld::CleanupWorld for Room, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.39:395][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.20-21.10.39:395][648]LogWorldMetrics: [UWorldMetricsSubsystem::Deinitialize]
+[2024.05.20-21.10.39:395][648]LogWorldMetrics: [UWorldMetricsSubsystem::Clear]
+[2024.05.20-21.10.39:802][648]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.05.20-21.10.40:186][648]LogStudioTelemetry: Ended StudioTelemetry Session
+[2024.05.20-21.10.40:337][648]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2024.05.20-21.10.40:337][648]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2024.05.20-21.10.40:337][648]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2024.05.20-21.10.40:469][648]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.05.20-21.10.40:469][648]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.05.20-21.10.40:469][648]LogAudio: Display: Audio Device unregistered from world 'Room'.
+[2024.05.20-21.10.40:501][648]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2024.05.20-21.10.40:548][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.20-21.10.40:550][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.05.20-21.10.40:585][648]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2024.05.20-21.10.40:585][648]LogAudio: Display: Audio Device Manager Shutdown
+[2024.05.20-21.10.40:586][648]LogWindowsTextInputMethodSystem: Activated input method: Catalan (Catalan) - (Keyboard).
+[2024.05.20-21.10.40:709][648]LogExit: Preparing to exit.
+[2024.05.20-21.10.42:102][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2024.05.20-21.10.42:110][648]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:110][648]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:115][648]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:116][648]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:116][648]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:116][648]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:116][648]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:116][648]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:116][648]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:116][648]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:116][648]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:116][648]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:117][648]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:117][648]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:117][648]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:117][648]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:117][648]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:117][648]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:117][648]LogPython: Display: Object '/Engine/PythonTypes.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:118][648]LogPython: Display: Object '/Engine/PythonTypes.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.42:118][648]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.05.20-21.10.45:284][648]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.45:289][648]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.45:292][648]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.45:296][648]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.45:299][648]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.45:302][648]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.45:306][648]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.45:309][648]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.45:312][648]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2024.05.20-21.10.46:808][648]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.05.20-21.10.47:932][648]LogExit: Editor shut down
+[2024.05.20-21.10.47:935][648]LogExit: Transaction tracking system shut down
+[2024.05.20-21.11.00:724][648]LogExit: Object subsystem successfully closed.
+[2024.05.20-21.11.00:799][648]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.05.20-21.11.11:644][648]MemoryProfiler: Shutdown
+[2024.05.20-21.11.11:737][648]NetworkingProfiler: Shutdown
+[2024.05.20-21.11.11:737][648]LoadingProfiler: Shutdown
+[2024.05.20-21.11.11:778][648]TimingProfiler: Shutdown
+[2024.05.20-21.11.15:953][648]LogOpenImageDenoise: OIDN shutting down
+[2024.05.20-21.11.23:928][648]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.05.20-21.11.23:928][648]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2024.05.20-21.11.27:066][648]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2024.05.20-21.11.27:066][648]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD786E84F-49C0-E471-83D1-DCB52086446E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.4.1-33305029%2B%2B%2BUE5%2BRelease-5.4&UserID=1aad6482451823bcef5f979728d37cc2%7C1d5d0936115a491889818d69ea383da4%7C925eea07-f67d-4550-94df-249ac634cb15&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2024.05.20-21.11.28:664][648]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2024.05.20-21.11.29:095][648]RenderDocPlugin: plugin has been unloaded.
+[2024.05.20-21.11.33:560][648]LogPakFile: Destroying PakPlatformFile
+[2024.05.20-21.11.35:193][648]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.05.20-21.11.35:627][648]LogExit: Exiting.
+[2024.05.20-21.11.39:088][648]Log file closed, 05/21/24 00:11:39
