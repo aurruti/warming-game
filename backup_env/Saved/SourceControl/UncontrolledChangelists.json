@@ -6,7 +6,8 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
-				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/LevelPrototyping/Meshes/SM_Cube.uasset"
 			]
 		}
 	]
