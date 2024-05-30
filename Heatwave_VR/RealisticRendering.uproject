@@ -32,6 +32,10 @@
 				"Android",
 				"VisionOS"
 			]
+		},
+		{
+			"Name": "SERIALCOM",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
