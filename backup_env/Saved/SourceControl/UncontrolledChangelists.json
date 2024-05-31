@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/PCMHall/Level/Outside.umap",
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/TV/TV.uasset",
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/TV/BP_TV.uasset",
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/Characters/MannequinsXR/B_MannequinsXR.uasset",
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/PCMHall/Level/Demo.umap",
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/TV/TV1.uasset",
+				"/Users/windyinmay/Documents/Aalto/2024 - Spring/warming-game/backup_env/Content/TV/TVScreen.uasset",
+				"C:/Users/aitor/Documents/AALTO/Special Project/warming-game/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/aitor/Documents/AALTO/Special Project/warming-game/MyProject/Content/VRTemplate/Maps/VRTemplateMap.umap"
+			]
+		}
+	]
+}
