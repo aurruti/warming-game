@@ -1,0 +1,81 @@
+{
+	"assetId": "vdkvbiu",
+	"assetName": "Red_And_Blue_Fat_Book_vdkvbiu",
+	"assetType": "3d",
+	"assetSubType": "multipleMesh",
+	"assetTier": 4,
+	"assetRootPath": "/Game/Megascans/3D_Assets/Red_And_Blue_Fat_Book_vdkvbiu/Preview",
+	"meshList": [
+		{
+			"meshId": "mesh1",
+			"name": "S_Red_And_Blue_Fat_Book_vdkvbiu_lod5_Var1",
+			"path": "/Game/Megascans/3D_Assets/Red_And_Blue_Fat_Book_vdkvbiu/Preview/S_Red_And_Blue_Fat_Book_vdkvbiu_lod5_Var1.S_Red_And_Blue_Fat_Book_vdkvbiu_lod5_Var1",
+			"numberOfLods": 0,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		}
+	],
+	"foliageAssetPaths": [],
+	"materialInstances": [
+		{
+			"instanceId": "mat1",
+			"instanceName": "MI_Red_And_Blue_Fat_Book_vdkvbiu_1K",
+			"instancePath": "/Game/Megascans/3D_Assets/Red_And_Blue_Fat_Book_vdkvbiu/Preview/MI_Red_And_Blue_Fat_Book_vdkvbiu_1K.MI_Red_And_Blue_Fat_Book_vdkvbiu_1K",
+			"instanceMaster": "master1",
+			"type": "materialInstance",
+			"params": [
+				{
+					"paramName": "albedo",
+					"usedTextureId": "tex1"
+				},
+				{
+					"paramName": "normal",
+					"usedTextureId": "tex2"
+				}
+			]
+		}
+	],
+	"textureSets": [
+		{
+			"textureId": "tex1",
+			"type": "albedo",
+			"resolution": "1K",
+			"name": "T_Red_And_Blue_Fat_Book_vdkvbiu_1K_D",
+			"path": "/Game/Megascans/3D_Assets/Red_And_Blue_Fat_Book_vdkvbiu/Preview/T_Red_And_Blue_Fat_Book_vdkvbiu_1K_D.T_Red_And_Blue_Fat_Book_vdkvbiu_1K_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "normal",
+			"resolution": "1K",
+			"name": "T_Red_And_Blue_Fat_Book_vdkvbiu_1K_N",
+			"path": "/Game/Megascans/3D_Assets/Red_And_Blue_Fat_Book_vdkvbiu/Preview/T_Red_And_Blue_Fat_Book_vdkvbiu_1K_N.T_Red_And_Blue_Fat_Book_vdkvbiu_1K_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		}
+	],
+	"masterMaterials": [
+		{
+			"masterId": "master1",
+			"masterMaterialName": "M_MS_Default_Material",
+			"path": "/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material"
+		}
+	]
+}

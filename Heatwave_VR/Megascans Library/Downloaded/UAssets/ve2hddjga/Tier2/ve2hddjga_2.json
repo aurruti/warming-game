@@ -1,0 +1,136 @@
+{
+	"assetId": "ve2hddjga",
+	"assetName": "Trash_Bag_Pack_ve2hddjga",
+	"assetType": "3d",
+	"assetSubType": "multipleMesh",
+	"assetTier": 2,
+	"assetRootPath": "/Game/Megascans/3D_Assets/Trash_Bag_Pack_ve2hddjga",
+	"meshList": [
+		{
+			"meshId": "mesh1",
+			"name": "S_Trash_Bag_Pack_ve2hddjga_lod3_Var1",
+			"path": "/Game/Megascans/3D_Assets/Trash_Bag_Pack_ve2hddjga/S_Trash_Bag_Pack_ve2hddjga_lod3_Var1.S_Trash_Bag_Pack_ve2hddjga_lod3_Var1",
+			"numberOfLods": 4,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh2",
+			"name": "S_Trash_Bag_Pack_ve2hddjga_lod3_Var2",
+			"path": "/Game/Megascans/3D_Assets/Trash_Bag_Pack_ve2hddjga/S_Trash_Bag_Pack_ve2hddjga_lod3_Var2.S_Trash_Bag_Pack_ve2hddjga_lod3_Var2",
+			"numberOfLods": 4,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh3",
+			"name": "S_Trash_Bag_Pack_ve2hddjga_lod3_Var3",
+			"path": "/Game/Megascans/3D_Assets/Trash_Bag_Pack_ve2hddjga/S_Trash_Bag_Pack_ve2hddjga_lod3_Var3.S_Trash_Bag_Pack_ve2hddjga_lod3_Var3",
+			"numberOfLods": 4,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		},
+		{
+			"meshId": "mesh4",
+			"name": "S_Trash_Bag_Pack_ve2hddjga_lod3_Var4",
+			"path": "/Game/Megascans/3D_Assets/Trash_Bag_Pack_ve2hddjga/S_Trash_Bag_Pack_ve2hddjga_lod3_Var4.S_Trash_Bag_Pack_ve2hddjga_lod3_Var4",
+			"numberOfLods": 4,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		}
+	],
+	"foliageAssetPaths": [],
+	"materialInstances": [
+		{
+			"instanceId": "mat1",
+			"instanceName": "MI_Trash_Bag_Pack_ve2hddjga_2K",
+			"instancePath": "/Game/Megascans/3D_Assets/Trash_Bag_Pack_ve2hddjga/MI_Trash_Bag_Pack_ve2hddjga_2K.MI_Trash_Bag_Pack_ve2hddjga_2K",
+			"instanceMaster": "master1",
+			"type": "materialInstance",
+			"params": [
+				{
+					"paramName": "albedo",
+					"usedTextureId": "tex2"
+				},
+				{
+					"paramName": "normal",
+					"usedTextureId": "tex3"
+				},
+				{
+					"paramName": "DR",
+					"usedTextureId": "tex1"
+				}
+			]
+		}
+	],
+	"textureSets": [
+		{
+			"textureId": "tex1",
+			"type": "DR",
+			"resolution": "2K",
+			"name": "T_TrashBagPack_ve2hddjga_2K_DpR",
+			"path": "/Game/Megascans/3D_Assets/Trash_Bag_Pack_ve2hddjga/T_TrashBagPack_ve2hddjga_2K_DpR.T_TrashBagPack_ve2hddjga_2K_DpR",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "2K",
+			"name": "T_Trash_Bag_Pack_ve2hddjga_2K_D",
+			"path": "/Game/Megascans/3D_Assets/Trash_Bag_Pack_ve2hddjga/T_Trash_Bag_Pack_ve2hddjga_2K_D.T_Trash_Bag_Pack_ve2hddjga_2K_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "2K",
+			"name": "T_Trash_Bag_Pack_ve2hddjga_2K_N",
+			"path": "/Game/Megascans/3D_Assets/Trash_Bag_Pack_ve2hddjga/T_Trash_Bag_Pack_ve2hddjga_2K_N.T_Trash_Bag_Pack_ve2hddjga_2K_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		}
+	],
+	"masterMaterials": [
+		{
+			"masterId": "master1",
+			"masterMaterialName": "M_MS_Default_Material",
+			"path": "/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material"
+		}
+	]
+}
