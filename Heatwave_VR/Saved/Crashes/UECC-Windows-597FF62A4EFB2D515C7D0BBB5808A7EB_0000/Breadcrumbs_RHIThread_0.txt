@@ -1,0 +1,6 @@
+Breadcrumbs 'RHIThread'
+Context 1/2
+	00 FRDGBuilder_Execute
+	01 UpdateAllPrimitiveSceneInfos
+	02 GPUScene.Update
+	03 Memcpy GPUScene.PrimitiveData -> GPUScene.PrimitiveData
