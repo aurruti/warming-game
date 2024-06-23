@@ -5,4 +5,6 @@ Note that this is a work in progress.
 
 # PLEASE! USE UNREAL ENGINE 5.4.1
 
+# Covert to 5.3.2 for the Thermal Haptic API Integration
+
 
