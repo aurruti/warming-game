@@ -16,11 +16,7 @@ enum class ELineEnd : uint8;
 #endif
 #define SERIALCOM_SerialCom_generated_h
 
-#define FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_SPARSE_DATA
-#define FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_SPARSE_DATA_PROPERTY_ACCESSORS
-#define FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS
-#define FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
- \
+#define FID_SerialCom_54_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execLineEndToStr); \
 	DECLARE_FUNCTION(execGetBaud); \
 	DECLARE_FUNCTION(execGetPort); \
@@ -48,8 +44,7 @@ enum class ELineEnd : uint8;
 	DECLARE_FUNCTION(execOpenComPortWithFlowControl);
 
 
-#define FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_ACCESSORS
-#define FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS_NO_PURE_DECLS \
+#define FID_SerialCom_54_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUSerialCom(); \
 	friend struct Z_Construct_UClass_USerialCom_Statics; \
@@ -58,28 +53,24 @@ public: \
 	DECLARE_SERIALIZER(USerialCom)
 
 
-#define FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_ENHANCED_CONSTRUCTORS \
+#define FID_SerialCom_54_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
-	NO_API USerialCom(USerialCom&&); \
-	NO_API USerialCom(const USerialCom&); \
+	USerialCom(USerialCom&&); \
+	USerialCom(const USerialCom&); \
 public: \
 	DECLARE_VTABLE_PTR_HELPER_CTOR(NO_API, USerialCom); \
 	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USerialCom); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(USerialCom)
 
 
-#define FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_29_PROLOG
-#define FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_GENERATED_BODY \
+#define FID_SerialCom_54_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_29_PROLOG
+#define FID_SerialCom_54_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_SPARSE_DATA \
-	FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_SPARSE_DATA_PROPERTY_ACCESSORS \
-	FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_EDITOR_ONLY_SPARSE_DATA_PROPERTY_ACCESSORS \
-	FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_ACCESSORS \
-	FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS_NO_PURE_DECLS \
-	FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_ENHANCED_CONSTRUCTORS \
+	FID_SerialCom_54_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_SerialCom_54_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_INCLASS_NO_PURE_DECLS \
+	FID_SerialCom_54_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h_32_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -87,7 +78,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> SERIALCOM_API UClass* StaticClass<class USerialCom>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_SerialCom_53_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h
+#define CURRENT_FILE_ID FID_SerialCom_54_Plugins_SerialCOM_Source_SERIALCOM_Public_SerialCom_h
 
 
 #define FOREACH_ENUM_ELINEEND(op) \

@@ -17,13 +17,13 @@ void EmptyLinkFunctionForGeneratedCodeSERIALCOM_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x2DCF011C,
-				0x214AAF33,
+				0x0008C4E9,
+				0x55B23CC3,
 				METADATA_PARAMS(0, nullptr)
 			};
 			UECodeGen_Private::ConstructUPackage(Z_Registration_Info_UPackage__Script_SERIALCOM.OuterSingleton, PackageParams);
 		}
 		return Z_Registration_Info_UPackage__Script_SERIALCOM.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SERIALCOM(Z_Construct_UPackage__Script_SERIALCOM, TEXT("/Script/SERIALCOM"), Z_Registration_Info_UPackage__Script_SERIALCOM, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x2DCF011C, 0x214AAF33));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_SERIALCOM(Z_Construct_UPackage__Script_SERIALCOM, TEXT("/Script/SERIALCOM"), Z_Registration_Info_UPackage__Script_SERIALCOM, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0x0008C4E9, 0x55B23CC3));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

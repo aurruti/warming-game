@@ -6,7 +6,9 @@
 /NAME:"UnrealEditor-SERIALCOM.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"D:\PROJECTS_WORK\SerialCom_53\Intermediate\Build\Win64\x64\SerialCom_53Editor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
-"D:\PROJECTS_WORK\SerialCom_53\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
-"D:\PROJECTS_WORK\SerialCom_53\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Default.rc2.res"
-/OUT:"D:\PROJECTS_WORK\SerialCom_53\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\UnrealEditor-SERIALCOM.lib"
+"E:\111-UNREAL\SerialCom_54\Intermediate\Build\Win64\x64\SerialCom_54Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
+"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\SerialCom.cpp.obj"
+"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\SERIALCOMModule.cpp.obj"
+"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Default.rc2.res"
+/OUT:"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\UnrealEditor-SERIALCOM.lib"

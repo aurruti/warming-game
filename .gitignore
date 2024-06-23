@@ -1,0 +1,50 @@
+# Unreal Engine
+Saved/
+Intermediate/
+DerivedDataCache/
+*.vs/
+*.vscode/
+*.xcodeproj/
+*.xcworkspace/
+*.suo
+*.user
+*.useros
+*.userprefs
+*.opensdf
+*.sdf
+*.ipch/
+*.local
+*.log
+*.obj
+*.pch
+*.pdb
+*.exe
+*.dll
+*.dat
+*.tmp
+*.old
+*.ini
+*.lib
+*.manifest
+*.module
+*.csproj
+*.VC.db
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Compiled source files
+Binaries/
+Build/
+
+# Static files
+Content/Generated/
+
+# Ignore plugins directory
+Plugins/
+
+# Ignore crash reports
+*.dmp
+
+# Ignore temporary files
+.temp

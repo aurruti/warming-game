@@ -1,11 +1,11 @@
-"D:\PROJECTS_WORK\SerialCom_53\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp"
-/FI"D:\PROJECTS_WORK\SerialCom_53\Intermediate\Build\Win64\x64\SerialCom_53Editor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/FI"D:\PROJECTS_WORK\SerialCom_53\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Definitions.SERIALCOM.h"
-/Yu"D:\PROJECTS_WORK\SerialCom_53\Intermediate\Build\Win64\x64\SerialCom_53Editor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h"
-/Fp"D:\PROJECTS_WORK\SerialCom_53\Intermediate\Build\Win64\x64\SerialCom_53Editor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.pch"
-/Fo"D:\PROJECTS_WORK\SerialCom_53\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
-/sourceDependencies "D:\PROJECTS_WORK\SerialCom_53\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.dep.json"
-@"D:\PROJECTS_WORK\SerialCom_53\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\SERIALCOM.Shared.rsp"
+"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp"
+/FI"E:\111-UNREAL\SerialCom_54\Intermediate\Build\Win64\x64\SerialCom_54Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/FI"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Definitions.SERIALCOM.h"
+/Yu"E:\111-UNREAL\SerialCom_54\Intermediate\Build\Win64\x64\SerialCom_54Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h"
+/Fp"E:\111-UNREAL\SerialCom_54\Intermediate\Build\Win64\x64\SerialCom_54Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.pch"
+/Fo"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.obj"
+/sourceDependencies "E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\Module.SERIALCOM.cpp.dep.json"
+@"E:\111-UNREAL\SerialCom_54\Plugins\SerialCOM\Intermediate\Build\Win64\x64\UnrealEditor\Development\SERIALCOM\SERIALCOM.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
@@ -24,6 +24,7 @@
 /D_WINDLL
 /D_DISABLE_EXTENDED_ALIGNED_STORAGE
 /Ob2
+/d2ExtendedWarningInfo
 /Ox
 /Ot
 /GF

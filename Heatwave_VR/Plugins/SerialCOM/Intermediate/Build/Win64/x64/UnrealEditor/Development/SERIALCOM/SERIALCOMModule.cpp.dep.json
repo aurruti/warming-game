@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\111-unreal\\serialcom_54\\plugins\\serialcom\\source\\serialcom\\private\\serialcommodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\111-unreal\\serialcom_54\\intermediate\\build\\win64\\x64\\serialcom_54editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "e:\\111-unreal\\serialcom_54\\plugins\\serialcom\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\serialcom\\definitions.serialcom.h",
+            "e:\\111-unreal\\serialcom_54\\plugins\\serialcom\\source\\serialcom\\public\\serialcommodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
