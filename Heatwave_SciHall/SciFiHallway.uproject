@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "5.4",
+	"EngineAssociation": "5.0",
 	"Category": "Samples",
 	"Description": "",
 	"Plugins": [
@@ -32,15 +32,11 @@
 				"Android",
 				"VisionOS"
 			]
-		},
-		{
-			"Name": "SERIALCOM",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
 		"MacNoEditor",
 		"WindowsNoEditor"
 	],
-	"EpicSampleNameHash": "2438045989"
+	"EpicSampleNameHash": "3408941723"
 }
