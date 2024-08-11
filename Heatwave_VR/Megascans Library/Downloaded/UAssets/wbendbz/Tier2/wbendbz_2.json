@@ -1,0 +1,100 @@
+{
+	"assetId": "wbendbz",
+	"assetName": "Wooden_Blanket_Chest_wbendbz",
+	"assetType": "3d",
+	"assetSubType": "multipleMesh",
+	"assetTier": 2,
+	"assetRootPath": "/Game/Megascans/3D_Assets/Wooden_Blanket_Chest_wbendbz",
+	"meshList": [
+		{
+			"meshId": "mesh1",
+			"name": "S_Wooden_Blanket_Chest_wbendbz_lod3_Var1",
+			"path": "/Game/Megascans/3D_Assets/Wooden_Blanket_Chest_wbendbz/S_Wooden_Blanket_Chest_wbendbz_lod3_Var1.S_Wooden_Blanket_Chest_wbendbz_lod3_Var1",
+			"numberOfLods": 4,
+			"materialUsage": [
+				{
+					"instanceId": "mat1",
+					"materialSlot": "0"
+				}
+			]
+		}
+	],
+	"foliageAssetPaths": [],
+	"materialInstances": [
+		{
+			"instanceId": "mat1",
+			"instanceName": "MI_Wooden_Blanket_Chest_wbendbz_2K",
+			"instancePath": "/Game/Megascans/3D_Assets/Wooden_Blanket_Chest_wbendbz/MI_Wooden_Blanket_Chest_wbendbz_2K.MI_Wooden_Blanket_Chest_wbendbz_2K",
+			"instanceMaster": "master1",
+			"type": "materialInstance",
+			"params": [
+				{
+					"paramName": "albedo",
+					"usedTextureId": "tex2"
+				},
+				{
+					"paramName": "normal",
+					"usedTextureId": "tex3"
+				},
+				{
+					"paramName": "DR",
+					"usedTextureId": "tex1"
+				}
+			]
+		}
+	],
+	"textureSets": [
+		{
+			"textureId": "tex1",
+			"type": "DR",
+			"resolution": "2K",
+			"name": "T_WoodenBlanketChest_wbendbz_2K_DpR",
+			"path": "/Game/Megascans/3D_Assets/Wooden_Blanket_Chest_wbendbz/T_WoodenBlanketChest_wbendbz_2K_DpR.T_WoodenBlanketChest_wbendbz_2K_DpR",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "PackTexture"
+				}
+			]
+		},
+		{
+			"textureId": "tex2",
+			"type": "albedo",
+			"resolution": "2K",
+			"name": "T_Wooden_Blanket_Chest_wbendbz_2K_D",
+			"path": "/Game/Megascans/3D_Assets/Wooden_Blanket_Chest_wbendbz/T_Wooden_Blanket_Chest_wbendbz_2K_D.T_Wooden_Blanket_Chest_wbendbz_2K_D",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "albedo"
+				}
+			]
+		},
+		{
+			"textureId": "tex3",
+			"type": "normal",
+			"resolution": "2K",
+			"name": "T_Wooden_Blanket_Chest_wbendbz_2K_N",
+			"path": "/Game/Megascans/3D_Assets/Wooden_Blanket_Chest_wbendbz/T_Wooden_Blanket_Chest_wbendbz_2K_N.T_Wooden_Blanket_Chest_wbendbz_2K_N",
+			"isChannelPacked": false,
+			"channelPackInfo": [],
+			"pluggedIn": [
+				{
+					"matId": "mat1",
+					"matParams": "normal"
+				}
+			]
+		}
+	],
+	"masterMaterials": [
+		{
+			"masterId": "master1",
+			"masterMaterialName": "M_MS_Default_Material",
+			"path": "/Game/MSPresets/M_MS_Default_Material/M_MS_Default_Material"
+		}
+	]
+}

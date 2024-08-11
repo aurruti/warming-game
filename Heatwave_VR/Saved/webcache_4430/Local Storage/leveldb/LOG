@@ -1,2 +1,3 @@
-2024/06/05-18:41:27.207 1bd0 Creating DB C:/Users/admin/Documents/GitHub/warming-game/Heatwave_VR/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/06/05-18:41:27.219 1bd0 Reusing MANIFEST C:/Users/admin/Documents/GitHub/warming-game/Heatwave_VR/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/08/11-23:00:24.478 32fc Reusing MANIFEST C:/Users/admin/Documents/GitHub/warming-game/Heatwave_VR/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/08/11-23:00:24.482 32fc Recovering log #3
+2024/08/11-23:00:24.483 32fc Reusing old log C:/Users/admin/Documents/GitHub/warming-game/Heatwave_VR/Saved/webcache_4430\Local Storage\leveldb/000003.log 
