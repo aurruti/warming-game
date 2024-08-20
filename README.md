@@ -18,14 +18,15 @@ Please refer to the project report, avialable in this same repository in PDF for
 # CC BY-NC-SA 4.0 Licensing
 Heatwave VR © 2024 by Aitor Urruticoechea, Anh Pham, and Saeideh Mansouri is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/
 
-Attribution-NonCommercial-ShareAlike 4.0 International You are free to:
+Under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International you are free to:
 - Share — copy and redistribute the material in any medium or format.
 - Adapt — remix, transform, and build upon the material.
 
 The licensor cannot revoke these freedoms as long as you follow the license terms. Under the following terms:
 
-- Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- Attribution — You must give appropriate credit , provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 - NonCommercial — You may not use the material for commercial purposes.
 - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 - No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
+Exception: The virtual environment, as well as 3D models used for the pilot version of the game, are license-free Epic Games Store items. Please refer to the Epic Games Store terms of usage and service for their correct and lawful use.
